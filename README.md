@@ -1,1 +1,3 @@
-Assessment task using NextJS, Tailwind CSS and TypeScript for the position of Front-end developer (intern) for the company Munchies.
+Assessment task using NextJS, Tailwind CSS, and TypeScript for Munchies.
+
+Live project: https://products-nextjs-app.vercel.app
